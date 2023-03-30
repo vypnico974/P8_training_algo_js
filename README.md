@@ -1,4 +1,4 @@
-# Projet 8 openclassrrom  -Testez vos compétences : les algorithmes en JavaScript
+# Projet 8 openclassroom  - Testez vos compétences : les algorithmes en JavaScript.
 
 
 ## La mission
