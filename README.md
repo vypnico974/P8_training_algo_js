@@ -13,6 +13,11 @@ Ce mini-projet d’exercice vous permet de pratiquer sur des exercices interacti
 Les exercices que vous ferez ont été créés spécialement pour ce parcours. Ils vous prendront environ 45 min.
 
 
+## Compétences évaluées
+
+Écrire la syntaxe JavaScript en utilisant un paradigme de programmation.
+
+
 ## Ressources
 
 ### France-IOI 
