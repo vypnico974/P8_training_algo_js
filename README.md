@@ -20,6 +20,12 @@ Les exercices que vous ferez ont été créés spécialement pour ce parcours. I
 
 ## Ressources
 
+
+### Cours d'algorithmique et de programmation
+
+Cours d'algorithmique et de programmation enseigné à l'Université Paris 7.
+[ici](http://cours.pise.info/algo/codage.htm))
+
 ### France-IOI 
 
 Le site de préparation aux concours d'algo scolaires et universitaires.
