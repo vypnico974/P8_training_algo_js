@@ -42,4 +42,14 @@ CodinGame est un site consacré à la programmation informatique ludique, propos
 [ici](https://www.codingame.com/)
 
 
+### Entrainement
 
+#### Algorithmique
+
+| Objet | Language(s) |
+|:-|:-|
+| [Convertir un nombre décimal positif ou négatif en un nombre romain](/training/decimalToRoman.js) | javascript |
+| A renseigner | javascript |
+| A renseigner | javascript |
+| A renseigner | javascript |
+| A renseigner | javascript |
