@@ -46,10 +46,19 @@ CodinGame est un site consacré à la programmation informatique ludique, propos
 
 #### Algorithmique
 
-| Objet | Language(s) |
+| Objet | Langage(s) |
 |:-|:-|
 | [Convertir un nombre décimal positif ou négatif en un nombre romain](/training/decimalToRoman.js) | javascript |
-| A renseigner | javascript |
-| A renseigner | javascript |
-| A renseigner | javascript |
-| A renseigner | javascript |
+| [Algorithme de décriptage de ROT13](/training/transformToRot13.js) | javascript |
+
+#### Codingame
+
+##### Puzzles faciles
+
+| Titre | Objet  | Solution(s) |
+| :---: | :------: | :------: |
+| ONBOARDING | Résoudre ce puzzle vous aide à comprendre le fonctionnement des puzzles sur CodinGame (récupération des données d’entrée, boucle de jeu, envoi des résultats sur la sortie standard). | [javascript](/codingame/easy/temperatures.js) |
+|POWER OF THOR - EPISODE 1 | Il vous faut comparer différentes valeurs et mettre en corrélation des caractères et des entiers. | [javascript](/codingame/easy/powerOfThor_1.js) |
+| TEMPÉRATURES | Résoudre ce puzzle valide que le concept de boucle est compris et que vous pouvez comparer une liste de valeurs. | [javascript](/codingame/easy/temperatures.js) |
+| LA DESCENTE |  Résoudre ce puzzle vous fait comprendre le concept de boucle et comment trouver le maximum d'une liste d'entiers. | [javascript](/codingame/easy/descente.js) |
+
