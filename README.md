@@ -31,15 +31,18 @@ Cours d'algorithmique et de programmation enseigné à l'Université Paris 7.
 Le site de préparation aux concours d'algo scolaires et universitaires.
 [ici](http://www.france-ioi.org/algo/chapters.php)
 
+### Codingame 
+
+CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation disponibles, et de l’autre des jeux d’intelligence artificielle multijoueurs, ou des défis de résolution de problèmes en temps limité, ou de code golf.
+[ici](https://www.codingame.com/)
+
+
 ### CodeWars 
 
 Pour s'entraîner aux tests techniques et surtout connaître les "tournures idiomatiques" d'un langage.
 [ici](http://www.france-ioi.org/algo/chapters.php)
 
-### Codingame 
 
-CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation disponibles, et de l’autre des jeux d’intelligence artificielle multijoueurs, ou des défis de résolution de problèmes en temps limité, ou de code golf.
-[ici](https://www.codingame.com/)
 
 
 ### Entrainement
@@ -62,3 +65,13 @@ CodinGame est un site consacré à la programmation informatique ludique, propos
 | TEMPÉRATURES | Résoudre ce puzzle valide que le concept de boucle est compris et que vous pouvez comparer une liste de valeurs. | [javascript](/codingame/easy/temperatures.js) |
 | LA DESCENTE |  Résoudre ce puzzle vous fait comprendre le concept de boucle et comment trouver le maximum d'une liste d'entiers. | [javascript](/codingame/easy/descente.js) |
 
+
+#### CodeWars
+
+##### Faciles
+
+| Titre | Objet  | Solution(s) |
+| :---: | :------: | :------: |
+| Insert dashes | Ecrire une fonction insertDash(num) qui insérera des tirets ('-') entre chaque deux chiffres impairs dans num | [javascript](/codewars/easy/insertDash.js) |
+
+ 
