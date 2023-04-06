@@ -55,8 +55,8 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 
 | Objet | Langage(s) |
 |:-|:-|
-| [Convertir un nombre décimal positif ou négatif en un nombre romain](/training/decimalToRoman.js) | javascript |
-| [Algorithme de décriptage de ROT13](/training/transformToRot13.js) | javascript |
+| Convertir un nombre décimal positif ou négatif en un nombre romain | [javascript]/training/decimalToRoman.js |
+| Algorithme de décriptage de ROT13 | [javascript]/training/transformToRot13.js |
 
 #### Codingame
 
