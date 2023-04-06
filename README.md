@@ -79,8 +79,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Insert dashes | Ecrire une fonction insertDash(num) qui insérera des tirets ('-') entre chaque deux chiffres impairs dans num. | [javascript](/codewars/easy/insertDash.js) |
 |Gravity Flip| Trie un tableau de nombres par les actions 'R' et 'L' | [javascript](/codewars/easy/flip.js) |
 | Check same case | Ecrire une fonction qui vérifie que deux caractères sont de la même case. |[javascript](/codewars/easy/sameCases.js)|
-| to Alternating Case | Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.
-|[javascript](/codewars/easy/toAlternatingCase.js)|
+|to Alternating Case|Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.|[javascript](/codewars/easy/toAlternatingCase.js)|
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |  [javascript](/codewars/easy/betweenExtremes.js)|
 
 
