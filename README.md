@@ -43,6 +43,10 @@ Pour s'entraîner aux tests techniques et surtout connaître les "tournures idio
 [ici](http://www.france-ioi.org/algo/chapters.php)
 
 
+### FreeCodeCamp 
+
+Pour s'entraîner aux tests techniques et pour montrer votre logique et votre capacité à résoudre des problèmes.
+[ici](https://www.freecodecamp.org/learn)
 
 
 ### Entrainement
@@ -68,10 +72,26 @@ Pour s'entraîner aux tests techniques et surtout connaître les "tournures idio
 
 #### CodeWars
 
-##### Faciles
+##### Puzzles faciles
 
 | Titre | Objet  | Solution(s) |
 | :---: | :------: | :------: |
-| Insert dashes | Ecrire une fonction insertDash(num) qui insérera des tirets ('-') entre chaque deux chiffres impairs dans num | [javascript](/codewars/easy/insertDash.js) |
+| Insert dashes | Ecrire une fonction insertDash(num) qui insérera des tirets ('-') entre chaque deux chiffres impairs dans num. | [javascript](/codewars/easy/insertDash.js) |
+|Gravity Flip| Trie un tableau de nombres par les actions 'R' et 'L' | [javascript](/codewars/easy/flip.js) |
+| Check same case | Ecrire une fonction qui vérifie que deux caractères sont de la même case. |[javascript](/codewars/easy/sameCases.js)|
+| to Alternating Case | Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.
+|[javascript](/codewars/easy/toAlternatingCase.js)|
+| between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence
+entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betweenExtremes.js)|
 
- 
+
+#### FreeCodeCamp
+
+##### Puzzles faciles
+
+| Titre | Objet  | Solution(s) |
+| :---: | :------: | :------: |
+| Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme
+les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js) |
+|reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. |
+[javascript](/freeCodeCamp/easy/reverseString.js)  |

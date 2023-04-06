@@ -1,4 +1,5 @@
-/****  https://www.codingame.com/training/easy/temperatures/  ********/
+/**** DESCRIPTION
+ *  https://www.codingame.com/training/easy/temperatures/  ********/
 
 
 /**

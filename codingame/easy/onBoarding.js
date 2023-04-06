@@ -1,4 +1,5 @@
-/****  https://www.codingame.com/training/easy/onboarding/  *******/
+/****  DESCRIPTION
+ * https://www.codingame.com/training/easy/onboarding/  *******/
 
 // game loop
 while (true) {

@@ -1,4 +1,5 @@
-/******* https://www.codingame.com/training/easy/the-descent/ ******/
+/******* DESCRIPTION
+ *  https://www.codingame.com/training/easy/the-descent/ ******/
 
 /**
  * The while loop represents the game.

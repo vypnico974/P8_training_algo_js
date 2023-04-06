@@ -1,4 +1,5 @@
-/**** https://www.codingame.com/training/easy/power-of-thor-episode-1/  ******/
+/**** DESCRIPTION
+ * https://www.codingame.com/training/easy/power-of-thor-episode-1/  ******/
 
 
 /******* solution 1 ********/
