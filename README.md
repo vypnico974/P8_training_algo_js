@@ -91,7 +91,5 @@ entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betwe
 
 | Titre | Objet  | Solution(s) |
 | :---: | :------: | :------: |
-| Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme
-les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js) |
-|reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. |
-[javascript](/freeCodeCamp/easy/reverseString.js)  |
+| Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js)|
+|reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
