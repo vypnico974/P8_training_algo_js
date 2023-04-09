@@ -5,7 +5,7 @@
 Only numbers without decimals like 4 or 4.0 can be even.
 The input is a sequence of numbers: integers and/or floats.
 */
-
+/** solution 1 */
 function sumEvenNumbers(inputArray) {
     let result=0;
     inputArray.forEach(element => {
@@ -16,6 +16,13 @@ function sumEvenNumbers(inputArray) {
     });
     return result;
 }
+
+console.log(sumEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+console.log(sumEvenNumbers([]));
+
+/** solution 2 optimisé */
+
+sumEvenNumbers = input => input.filter(x => x % 2 == 0).reduce((x, y) => x + y, 0);
 
 console.log(sumEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 console.log(sumEvenNumbers([]));
