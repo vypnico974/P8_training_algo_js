@@ -68,6 +68,8 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |POWER OF THOR - EPISODE 1 | Il vous faut comparer différentes valeurs et mettre en corrélation des caractères et des entiers. | [javascript](/codingame/easy/powerOfThor_1.js) |
 | TEMPÉRATURES | Résoudre ce puzzle valide que le concept de boucle est compris et que vous pouvez comparer une liste de valeurs. | [javascript](/codingame/easy/temperatures.js) |
 | LA DESCENTE |  Résoudre ce puzzle vous fait comprendre le concept de boucle et comment trouver le maximum d'une liste d'entiers. | [javascript](/codingame/easy/descente.js) |
+| Mars Lander - Episode 1 | Ce puzzle vous apprend à comparer des valeurs en utilisant une condition simple. | [javascript](/codingame/easy/marsLander1.js) |
+| CHEVAUX DE COURSE | Ce puzzle montre que parfois, la solution la plus simple n'est pas assez performante. Vous allez devoir manipuler des tableaux de grande taille et travailler avec leur temps de traitement. | [javascript](/codingame/easy/horsesDual.js) |
 
 
 #### CodeWars
@@ -81,8 +83,9 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Check same case | Ecrire une fonction qui vérifie que deux caractères sont de la même case. |[javascript](/codewars/easy/sameCases.js)|
 | to Alternating Case | Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.
 |[javascript](/codewars/easy/toAlternatingCase.js)|
-| between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence
-entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betweenExtremes.js)|
+| between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betweenExtremes.js)|
+| Node.js Intro | Ecrire une fonction qui doit renvoyer la somme des valeurs paires de la séquence d'entrée. |[javascript](/codewars/easy/toBase64_fromBase64.js)|
+| sum Even Numbers |  doit renvoyer la somme des valeurs paires de cette séquence |[javascript](/codewars/easy/sumEvenNumbers.js)|
 
 
 #### FreeCodeCamp
@@ -91,7 +94,5 @@ entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betwe
 
 | Titre | Objet  | Solution(s) |
 | :---: | :------: | :------: |
-| Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme
-les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js) |
-|reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. |
-[javascript](/freeCodeCamp/easy/reverseString.js)  |
+| Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js) |
+|reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
