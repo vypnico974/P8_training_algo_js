@@ -81,17 +81,13 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Insert dashes | Ecrire une fonction insertDash(num) qui insérera des tirets ('-') entre chaque deux chiffres impairs dans num. | [javascript](/codewars/easy/insertDash.js) |
 |Gravity Flip| Trie un tableau de nombres par les actions 'R' et 'L' | [javascript](/codewars/easy/flip.js) |
 | Check same case | Ecrire une fonction qui vérifie que deux caractères sont de la même case. |[javascript](/codewars/easy/sameCases.js)|
-<<<<<<< HEAD
 | to Alternating Case | Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.
 |[javascript](/codewars/easy/toAlternatingCase.js)|
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |[javascript](/codewars/easy/betweenExtremes.js)|
 | Node.js Intro | Ecrire une fonction qui doit renvoyer la somme des valeurs paires de la séquence d'entrée. |[javascript](/codewars/easy/toBase64_fromBase64.js)|
 | sum Even Numbers |  doit renvoyer la somme des valeurs paires de cette séquence |[javascript](/codewars/easy/sumEvenNumbers.js)|
-=======
 |to Alternating Case|Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.|[javascript](/codewars/easy/toAlternatingCase.js)|
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |  [javascript](/codewars/easy/betweenExtremes.js)|
-
->>>>>>> 42f95b8c170db5a5f54db8c5d89c8aea666a9ab1
 
 
 #### FreeCodeCamp
@@ -100,10 +96,8 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 
 | Titre | Objet  | Solution(s) |
 | :---: | :------: | :------: |
-<<<<<<< HEAD
 | Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js) |
 |reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
-=======
 | Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js)|
 |reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
->>>>>>> 42f95b8c170db5a5f54db8c5d89c8aea666a9ab1
+
