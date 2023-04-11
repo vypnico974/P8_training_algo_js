@@ -87,6 +87,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | sum Even Numbers |  doit renvoyer la somme des valeurs paires de cette séquence |[javascript](/codewars/easy/sumEvenNumbers.js)|
 |to Alternating Case|Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.|[javascript](/codewars/easy/toAlternatingCase.js)|
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |  [javascript](/codewars/easy/betweenExtremes.js)|
+| valid Parentheses | Ecrire une fonction qui pour une chaine de parenthèses en entrée, détermine si l'ordre des paranthèses est respecté. |  [javascript](/codewars/easy/validParentheses.js)|
 
 
 #### FreeCodeCamp
@@ -99,4 +100,8 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
 | Convert Celsius to Fahrenheit | Ecrire une fonction convertCtoF(celsius) qui transforme les celsius en  Fahrenheit. | [javascript](/freeCodeCamp/easy/convertCtoF.js)|
 |reverse String | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/reverseString.js)  |
+|factorialize | Ecrire une fonction reverseString(str) qui change le sens d'un mot. | [javascript](/freeCodeCamp/easy/factorialize.js)  |
+|findLongestWordLength | Ecrire une fonction findLongestWordLength(str) qui retourne la longueur maximun du mot dans une chaine de caractères en entrée. | [javascript](/freeCodeCamp/easy/findLongestWordLength.js)  |
+|largestOfFour | Ecrire une fonction largestOfFour(arr) qui renvoie un tableau composé du plus grand nombre de chaque sous-tableau fourni. | [javascript](/freeCodeCamp/easy/largestOfFour.js)  |
+|confirmEnding | Ecrire une fonction confirmEnding(str, target) qui vérifie si une chaîne (premier argument, str) se termine par la cible donnée chaîne (deuxième argument, cible). | [javascript](/freeCodeCamp/easy/confirmEnding.js)  |
 
