@@ -104,4 +104,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |findLongestWordLength | Ecrire une fonction findLongestWordLength(str) qui retourne la longueur maximun du mot dans une chaine de caractères en entrée. | [javascript](/freeCodeCamp/easy/findLongestWordLength.js)  |
 |largestOfFour | Ecrire une fonction largestOfFour(arr) qui renvoie un tableau composé du plus grand nombre de chaque sous-tableau fourni. | [javascript](/freeCodeCamp/easy/largestOfFour.js)  |
 |confirmEnding | Ecrire une fonction confirmEnding(str, target) qui vérifie si une chaîne (premier argument, str) se termine par la cible donnée chaîne (deuxième argument, cible). | [javascript](/freeCodeCamp/easy/confirmEnding.js)  |
+|confirmEnding | Ecrire une fonction repeatStringNumTimes(str, num) qui répéte une chaine de caractère num de fois. | [javascript](/freeCodeCamp/easy/repeatStringNumTimes.js)  |
+|truncateString | Ecrire une fonction truncateString(str, num) qui tronque une chaîne (premier argument) si elle est plus longue que la longueur de chaîne maximale donnée (deuxième argument). Renvoyer la chaîne tronquée avec un ... fin. | [javascript](/freeCodeCamp/easy/truncateString.js)  |
+|findElement | Ecrire une fonction findElement(arr, func) qui parcourt un tableau arr et retourne le premier élément qu’il contient et qui réussit un « test de vérité ». Cela signifie qu’étant donné un élément x, le 'test de vérité' est réussi si func(x) est vrai. | [javascript](/freeCodeCamp/easy/findElement.js)  |
 
