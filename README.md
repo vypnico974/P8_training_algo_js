@@ -107,4 +107,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |confirmEnding | Ecrire une fonction repeatStringNumTimes(str, num) qui répéte une chaine de caractère num de fois. | [javascript](/freeCodeCamp/easy/repeatStringNumTimes.js)  |
 |truncateString | Ecrire une fonction truncateString(str, num) qui tronque une chaîne (premier argument) si elle est plus longue que la longueur de chaîne maximale donnée (deuxième argument). Renvoyer la chaîne tronquée avec un ... fin. | [javascript](/freeCodeCamp/easy/truncateString.js)  |
 |findElement | Ecrire une fonction findElement(arr, func) qui parcourt un tableau arr et retourne le premier élément qu’il contient et qui réussit un « test de vérité ». Cela signifie qu’étant donné un élément x, le 'test de vérité' est réussi si func(x) est vrai. | [javascript](/freeCodeCamp/easy/findElement.js)  |
+|booWho | Ecrire une fonction booWho(bool) qui vérifie que la donnée en entrée est de tyle booléan. | [javascript](/freeCodeCamp/easy/booWho.js)  |
+|titleCase| Ecrire une fonction booWho(bool) qui pour chaque mot met la première lettre en majuscule et concaténe avec le reste du mot en minuscules. | [javascript](/freeCodeCamp/easy/titleCase.js)  |
+|frankenSplice| Ecrire une fonction frankenSplice(array1, array2, index) qui insére chaque élément de la copie du premier tableau dans le deuxième tableau à l'index spécifié. | [javascript](/freeCodeCamp/easy/frankenSplice.js)  |
 
