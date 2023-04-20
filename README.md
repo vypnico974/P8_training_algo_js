@@ -92,7 +92,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 
 #### FreeCodeCamp
 
-##### Puzzles faciles
+##### Algorithme de base
 
 | Titre | Objet  | Solution(s) |
 | :---: | :------: | :------: |
@@ -110,4 +110,24 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |booWho | Ecrire une fonction booWho(bool) qui vérifie que la donnée en entrée est de tyle booléan. | [javascript](/freeCodeCamp/easy/booWho.js)  |
 |titleCase| Ecrire une fonction booWho(bool) qui pour chaque mot met la première lettre en majuscule et concaténe avec le reste du mot en minuscules. | [javascript](/freeCodeCamp/easy/titleCase.js)  |
 |frankenSplice| Ecrire une fonction frankenSplice(array1, array2, index) qui insére chaque élément de la copie du premier tableau dans le deuxième tableau à l'index spécifié. | [javascript](/freeCodeCamp/easy/frankenSplice.js)  |
+|bouncer| Ecrire une fonction bouncer(arr) qui supprime les valeurs de type Boolean dans un tableau. | [javascript](/freeCodeCamp/easy/bouncer.js)  |
+|getIndexToIns| Ecrire une fonction bouncer(arr) qui prend un tableau trié et une valeur en tant qu'arguments, et renvoie l'indice le plus bas auquel la valeur doit être insérée dans le tableau. | [javascript](/freeCodeCamp/easy/getIndexToIns.js)  |
+|mutation| Ecrire une fonction mutation(arr) qui renvoie true si la chaîne du premier élément du tableau contient toutes les lettres de la chaîne du deuxième élément du tableau. | [javascript](/freeCodeCamp/easy/mutation.js)  |
+|chunkArrayInGroups| Ecrire une fonction chunkArrayInGroups(arr, size) qui divise un tableau (premier argument) en groupes de la longueur de la taille (deuxième argument) et les renvoie sous la forme d’un tableau bidimensionnel.  | [javascript](/freeCodeCamp/easy/chunkArrayInGroups.js)  |
+
+
+##### Programmation orientée objet
+
+| Titre |  Solution(s) |
+| :---: |  :------: |
+| Créer un objet de base. |  [javascript](/freeCodeCamp/objectOrientedProgramming/basicJavascriptObject.js) |
+| Accès aux propriétés de l'objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/accesPropretyObject.js) |
+| Créer une méthode à un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/createMethodObject.js) |
+| Code plus réutilisable avec le mot clé this. |  [javascript](/freeCodeCamp/objectOrientedProgramming/moreReusableWithThis.js) |
+| Définir un constructeur dans une fonction. |  [javascript](/freeCodeCamp/objectOrientedProgramming/defineConstructor.js) |
+| Utiliser un constructeur d'un objet créé. |  [javascript](/freeCodeCamp/objectOrientedProgramming/constructorCreateNewObject.js) |
+
+
+
+
 
