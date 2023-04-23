@@ -88,7 +88,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |to Alternating Case|Ecrire une fonction qui pour une chaîne de caractères transforme les lettres minuscules en majuscules et les lettres majuscules en minjuscules.|[javascript](/codewars/easy/toAlternatingCase.js)|
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |  [javascript](/codewars/easy/betweenExtremes.js)|
 | valid Parentheses | Ecrire une fonction qui pour une chaine de parenthèses en entrée, détermine si l'ordre des paranthèses est respecté. |  [javascript](/codewars/easy/validParentheses.js)|
-
+|isNarcissisticNumber | Ecrire une fonction qui vérifie qu'un nombre est un "Narcissistic Number" (ou un "Armstrong Number"). |  [javascript](/codewars/easy/validParentheses.js)|
 
 #### FreeCodeCamp
 
@@ -126,6 +126,10 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Code plus réutilisable avec le mot clé this. |  [javascript](/freeCodeCamp/objectOrientedProgramming/moreReusableWithThis.js) |
 | Définir un constructeur dans une fonction. |  [javascript](/freeCodeCamp/objectOrientedProgramming/defineConstructor.js) |
 | Utiliser un constructeur d'un objet créé. |  [javascript](/freeCodeCamp/objectOrientedProgramming/constructorCreateNewObject.js) |
+|Vérifier le constructeur d'un objet avec le mot clé instanceof. |  [javascript](/freeCodeCamp/objectOrientedProgramming/VerifyConstructorWithInstanceof.js) |
+|Lister les propriétés d'un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/hasOwnProperty.js) |
+|Utiliser prototype pour réduire le code. |  [javascript](/freeCodeCamp/objectOrientedProgramming/usePrototypeReduceCode.js) |
+|Parcourir toutes les propiétés d'un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/iterateOverAllProprety.js) |
 
 
 
