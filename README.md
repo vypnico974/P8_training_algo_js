@@ -130,6 +130,9 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Lister les propriétés d'un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/hasOwnProperty.js) |
 |Utiliser prototype pour réduire le code. |  [javascript](/freeCodeCamp/objectOrientedProgramming/usePrototypeReduceCode.js) |
 |Parcourir toutes les propiétés d'un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/iterateOverAllProprety.js) |
+|Comprendre la propriété constructeur |  [javascript](/freeCodeCamp/objectOrientedProgramming/understandProprety.js) |
+|Changer prototype d'un nouveau objet |  [javascript](/freeCodeCamp/objectOrientedProgramming/changePrototype.js) |
+|Souvenir la mise à jour du constructeur quand changement prototupe |  [javascript](/freeCodeCamp/objectOrientedProgramming/remenberSetConstructor.js) |
 
 
 
