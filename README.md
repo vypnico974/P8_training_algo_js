@@ -89,6 +89,9 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | between Extremes | Ecrire une fonction qui pour un tableau de donnée calcul la différence entre la valeur maximal et la valeur minimal. |  [javascript](/codewars/easy/betweenExtremes.js)|
 | valid Parentheses | Ecrire une fonction qui pour une chaine de parenthèses en entrée, détermine si l'ordre des paranthèses est respecté. |  [javascript](/codewars/easy/validParentheses.js)|
 |isNarcissisticNumber | Ecrire une fonction qui vérifie qu'un nombre est un "Narcissistic Number" (ou un "Armstrong Number"). |  [javascript](/codewars/easy/validParentheses.js)|
+|Count Odd Numbers below n | Ecrire une fonction qui compte le nombre de nombres impairs positifs inférieurs à n. |  [javascript](/codewars/easy/countOddNumbers.js)|
+|Count bits n | Ecrire une fonction qui compte le nombre de bits (base 2) 
+à partir d'un chiffre (base 10). |  [javascript](/codewars/easy/countBits.js)|
 
 #### FreeCodeCamp
 
@@ -132,7 +135,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Parcourir toutes les propiétés d'un objet. |  [javascript](/freeCodeCamp/objectOrientedProgramming/iterateOverAllProprety.js) |
 |Comprendre la propriété constructeur |  [javascript](/freeCodeCamp/objectOrientedProgramming/understandProprety.js) |
 |Changer prototype d'un nouveau objet |  [javascript](/freeCodeCamp/objectOrientedProgramming/changePrototype.js) |
-|Souvenir la mise à jour du constructeur quand changement prototupe |  [javascript](/freeCodeCamp/objectOrientedProgramming/remenberSetConstructor.js) |
+|Souvenir la mise à jour du constructeur quand changement prototype |  [javascript](/freeCodeCamp/objectOrientedProgramming/remenberSetConstructor.js) |
 
 
 
