@@ -135,7 +135,12 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre la propriété constructeur |  [javascript](/freeCodeCamp/objectOrientedProgramming/understandProprety.js) |
 |Changer prototype d'un nouveau objet |  [javascript](/freeCodeCamp/objectOrientedProgramming/changePrototype.js) |
 |Souvenir la mise à jour du constructeur quand changement prototype |  [javascript](/freeCodeCamp/objectOrientedProgramming/remenberSetConstructor.js) |
-
+|Comprendre la chaîne prototype |  [javascript](/freeCodeCamp/objectOrientedProgramming/understandPrototypeChain.js) |
+|Utilisez l’héritage pour ne pas vous répéter. |  [javascript](/freeCodeCamp/objectOrientedProgramming/useInheritanceDRY.js) |
+|Hériter des comportements d’un supertype. |  [javascript](/freeCodeCamp/objectOrientedProgramming/inheritBehaviorsSupertype.js) |
+|Définir le prototype de l’enfant depuis une instance du parent. |  [javascript](/freeCodeCamp/objectOrientedProgramming/childPrototypeInstanceParent.js) |
+|Réinitialiser une propriété constructrice héritée. |  [javascript](/freeCodeCamp/objectOrientedProgramming/resetInheritedConstructor.js) |
+|Ajouter des méthodes après l’héritage. |  [javascript](/freeCodeCamp/objectOrientedProgramming/addMethodAfterInherece.js) |
 
 
 
