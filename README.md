@@ -141,6 +141,11 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Définir le prototype de l’enfant depuis une instance du parent. |  [javascript](/freeCodeCamp/objectOrientedProgramming/childPrototypeInstanceParent.js) |
 |Réinitialiser une propriété constructrice héritée. |  [javascript](/freeCodeCamp/objectOrientedProgramming/resetInheritedConstructor.js) |
 |Ajouter des méthodes après l’héritage. |  [javascript](/freeCodeCamp/objectOrientedProgramming/addMethodAfterInherece.js) |
+|Remplacer les méthodes héritées. |  [javascript](/freeCodeCamp/objectOrientedProgramming/overrideInheritedMethod.js) |
+|Utiliser un mixin pour ajouter un comportement commun entre des objets non liés. |  [javascript](/freeCodeCamp/objectOrientedProgramming/miximUnrelaledMethod.js) |
+|Utiliser la fermeture pour protéger les propriétés d’un objet contre toute modification externe. |  [javascript](/freeCodeCamp/objectOrientedProgramming/protectProperties.js) |
+|Comprendre les fonctions immédiatement invoquées. |  [javascript](/freeCodeCamp/objectOrientedProgramming/immediatelyInvokedFunction.js) |
+|Utiliser les fonctions immédiatement invoquées pour création de module. |  [javascript](/freeCodeCamp/objectOrientedProgramming/immediatelyFunctionCreateModule.js) |
 
 
 
