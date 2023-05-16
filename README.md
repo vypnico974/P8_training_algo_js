@@ -94,6 +94,19 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 
 #### FreeCodeCamp
 
+##### Les bases de javascript
+
+| Titre | Objet  | Solution(s) |
+| :---: | :------: | :------: |
+| Les commentaires | Rajouter des commentaires sur une ligne et sur plusieurs lignes. | [javascript](/freeCodeCamp/basic/commentCode.js) |
+| Déclaration de variable | Déclarer une variable. | [javascript](/freeCodeCamp/basic/declareVariable.js) |
+| Affectation de variable | Affecter une variable. | [javascript](/freeCodeCamp/basic/assignVariable.js) |
+| Affectation de valeur d'une variable à une autre. |  Affecter une valeur d'une variable à une autre.  | [javascript](/freeCodeCamp/basic/assignVariableToAnother.js) |
+| Initialisation de variable. |  Initialiser une variable.  | [javascript](/freeCodeCamp/basic/initializeVariable.js) |
+| Déclaration de variable 'string'. |  Déclarer une variable 'string'.  | [javascript](/freeCodeCamp/basic/stringVariable.js) |
+| Présentation des variables non initialisées. |  Initialiser trois variables.  | [javascript](/freeCodeCamp/basic/UninitializedVar.js) |
+
+
 ##### Algorithme de base
 
 | Titre | Objet  | Solution(s) |
