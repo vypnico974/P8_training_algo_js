@@ -105,6 +105,12 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Initialisation de variable. |  Initialiser une variable.  | [javascript](/freeCodeCamp/basic/initializeVariable.js) |
 | Déclaration de variable 'string'. |  Déclarer une variable 'string'.  | [javascript](/freeCodeCamp/basic/stringVariable.js) |
 | Présentation des variables non initialisées. |  Initialiser trois variables.  | [javascript](/freeCodeCamp/basic/UninitializedVar.js) |
+| Comprendre le format de nommage des variables. |  Modifier le nommage de 3 variable en respectant le format "camelCase".  | [javascript](/freeCodeCamp/basic/camelCase.js) |
+| Comprendre la différences les mots clés var et let . |  Mettre à jour le code en remplaçant var par let.  | [javascript](/freeCodeCamp/basic/varAndLet.js) |
+| Comprendre la différences les mots clés const et let . |  Mettre à jour le code en utilsant const et let.  | [javascript](/freeCodeCamp/basic/constVar.js) |
+|Initialisation d'une variable en additionnant deux nombres . | Additionner deux nombres pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/addNumbers.js) |
+|Initialisation d'une variable en soustraction d'un nombre à un autre . | Soustraire un nombre à un autre nombre pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/subtractNumber.js) |
+|Initialisation d'une variable en multipliant deux nombres . | Multiplier deux nombres pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/multiplyNumbers.js) |
 
 
 ##### Algorithme de base
