@@ -111,6 +111,13 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Initialisation d'une variable en additionnant deux nombres . | Additionner deux nombres pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/addNumbers.js) |
 |Initialisation d'une variable en soustraction d'un nombre à un autre . | Soustraire un nombre à un autre nombre pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/subtractNumber.js) |
 |Initialisation d'une variable en multipliant deux nombres . | Multiplier deux nombres pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/multiplyNumbers.js) |
+|Initialisation d'une variable en divisant un nombre par un autre nombre . | Diviser un nombre par un autre nombre pour initialiser une variable.  | [javascript](/freeCodeCamp/basic/divideNumbers.js) |
+|Comprendre l'incrémentation d'une variable . | Incrémenter la valeur d'une variable.  | [javascript](/freeCodeCamp/basic/incrementNumber.js) |
+|Comprendre la décrémentation d'une variable . | Décrémenter la valeur d'une variable.  | [javascript](/freeCodeCamp/basic/decrementNumber.js) |
+|Comprendre la variable décimale . | Créer une variable décimale.  | [javascript](/freeCodeCamp/basic/decimalNumber.js) |
+|Comprendre la multiplication décimale . | Multiplier deux décimales.  | [javascript](/freeCodeCamp/basic/multiplyDecimals.js) |
+|Comprendre la division décimale . | Diviser un décimal par un autre décimal.  | [javascript](/freeCodeCamp/basic/divideDecimal.js) |
+|Comprendre l'opérateur pourcentage . | Diviser un décimal par un autre décimal en utilisant l'opégiyrateur % afin de déterminer le reste.  | [javascript](/freeCodeCamp/basic/remainderOperator.js) |
 
 
 ##### Algorithme de base
