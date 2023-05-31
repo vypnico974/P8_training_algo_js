@@ -117,7 +117,14 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre la variable décimale . | Créer une variable décimale.  | [javascript](/freeCodeCamp/basic/decimalNumber.js) |
 |Comprendre la multiplication décimale . | Multiplier deux décimales.  | [javascript](/freeCodeCamp/basic/multiplyDecimals.js) |
 |Comprendre la division décimale . | Diviser un décimal par un autre décimal.  | [javascript](/freeCodeCamp/basic/divideDecimal.js) |
-|Comprendre l'opérateur pourcentage . | Diviser un décimal par un autre décimal en utilisant l'opégiyrateur % afin de déterminer le reste.  | [javascript](/freeCodeCamp/basic/remainderOperator.js) |
+|Comprendre l'opérateur pourcentage . | Diviser un décimal par un autre décimal en utilisant l'opérateur % afin de déterminer le reste.  | [javascript](/freeCodeCamp/basic/remainderOperator.js) |
+|Comprendre l'assignation des opérateurs + et = à une variable. | Assigner les opérateurs + et = à des variables .  | [javascript](/freeCodeCamp/basic/augmentedAddition.js) |
+|Comprendre l'assignation des opérateurs - et = à une variable. | Assigner les opérateurs - et = à des variables .  | [javascript](/freeCodeCamp/basic/augmentedSubtractor.js) |
+|Comprendre l'assignation des opérateurs * et = à une variable. | Assigner les opérateurs * et = à des variables .  | [javascript](/freeCodeCamp/basic/augmentedMultiplication.js) |
+|Comprendre l'assignation des opérateurs / et = à une variable. | Assigner les opérateurs / et = à des variables .  | [javascript](/freeCodeCamp/basic/augmentedDivision.js) |
+|Comprendre le backslash(\) avec double quotes(") dans une chaîne de string. | Assigner des doubles quotes (") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/backslashQuota.js) |
+|Comprendre l'utilisation des doubles quotes(") et simples quote(') dans une chaîne de string. | Assigner des simples quotes (') à la place des doubles quotes(") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/quotaSimple.js) |
+|Comprendre les codes utilisés pour la mise en forme dans une chaîne de caractères. | Mettre en forme une une chaîne de caractères. .  | [javascript](/freeCodeCamp/basic/stringCode.js) |
 
 
 ##### Algorithme de base
