@@ -125,6 +125,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre le backslash(\) avec double quotes(") dans une chaîne de string. | Assigner des doubles quotes (") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/backslashQuota.js) |
 |Comprendre l'utilisation des doubles quotes(") et simples quote(') dans une chaîne de string. | Assigner des simples quotes (') à la place des doubles quotes(") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/quotaSimple.js) |
 |Comprendre les codes utilisés pour la mise en forme dans une chaîne de caractères. | Mettre en forme une une chaîne de caractères. .  | [javascript](/freeCodeCamp/basic/stringCode.js) |
+|Comprendre la concaténation des chaînes de caractères. | Concaténer deux chaînes de caractères.  | [javascript](/freeCodeCamp/basic/concatenationString.js) [javascript](/freeCodeCamp/basic/concatenationString2.js)  |
 
 
 ##### Algorithme de base
