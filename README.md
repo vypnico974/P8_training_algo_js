@@ -125,7 +125,14 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre le backslash(\) avec double quotes(") dans une chaîne de string. | Assigner des doubles quotes (") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/backslashQuota.js) |
 |Comprendre l'utilisation des doubles quotes(") et simples quote(') dans une chaîne de string. | Assigner des simples quotes (') à la place des doubles quotes(") dans une chaîne de string .  | [javascript](/freeCodeCamp/basic/quotaSimple.js) |
 |Comprendre les codes utilisés pour la mise en forme dans une chaîne de caractères. | Mettre en forme une une chaîne de caractères. .  | [javascript](/freeCodeCamp/basic/stringCode.js) |
-|Comprendre la concaténation des chaînes de caractères. | Concaténer deux chaînes de caractères.  | [javascript](/freeCodeCamp/basic/concatenationString.js) [javascript](/freeCodeCamp/basic/concatenationString2.js)  |
+|Comprendre la concaténation des chaînes de caractères avec des variables. | Concaténer deux chaînes de caractères avec une variable.  | [javascript](/freeCodeCamp/basic/concatenationString.js) [javascript](/freeCodeCamp/basic/concatenationString2.js)  |
+|Comprendre l'ajout d'une variable à une chaîne de caractères . | Ajouter une variable à une chaîne de caractère.  | [javascript](/freeCodeCamp/basic/concatenationString4.js)  |
+|Utilisation de la fonction length pour trouver la longeur d'une chaîne de caractères. | Utiliser la fonction length pour trouver la longeur d'une chaîne de caractères.  |  [javascript](/freeCodeCamp/basic/findStringLenght.js)  |
+|Comprendre l'immuabilité d'une chaîne de caractères . | Modifier une chaîne de caractères.  |  [javascript](/freeCodeCamp/basic/stringImmutable.js)  |
+|Comprendre la notation pour trouver la position d'un caractère dans un string . | Trouver la position d'un caractère dans un string.  |  [javascript](/freeCodeCamp/basic/positionCaracString.js) [javascript](/freeCodeCamp/basic/positionCaracString2.js) [javascript](/freeCodeCamp/basic/positionCaracString3.js)  |
+|Comprendre le rajout des espaces dans un string . | Ajouter des espaces dans un string.  |   [javascript](/freeCodeCamp/basic/wordBlank.js)  |
+|Comprendre l'utilisation des tableaux/sous-tableaux . | Utiliser des tableaux/sous tableaux : accéder, création, modifier ou suppression.  |   [Exercice1](/freeCodeCamp/basic/array.js) [Exercice2](/freeCodeCamp/basic/array2.js)
+[Exercice3](/freeCodeCamp/basic/array3.js) [Exercice4](/freeCodeCamp/basic/array4.js) [Exercice5](/freeCodeCamp/basic/array5.js)| [Exercice6](/freeCodeCamp/basic/array6.js) [Exercice7](/freeCodeCamp/basic/array7.js)|
 
 
 ##### Algorithme de base
