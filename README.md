@@ -131,7 +131,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre l'immuabilité d'une chaîne de caractères . | Modifier une chaîne de caractères.  |  [javascript](/freeCodeCamp/basic/stringImmutable.js)  |
 |Comprendre la notation pour trouver la position d'un caractère dans un string . | Trouver la position d'un caractère dans un string.  |  [javascript](/freeCodeCamp/basic/positionCaracString.js) [javascript](/freeCodeCamp/basic/positionCaracString2.js) [javascript](/freeCodeCamp/basic/positionCaracString3.js)  |
 |Comprendre le rajout des espaces dans un string . | Ajouter des espaces dans un string.  |   [javascript](/freeCodeCamp/basic/wordBlank.js)  |
-|Comprendre l'utilisation des tableaux/sous-tableaux . | Utiliser des tableaux/sous tableaux : accéder, création, modifier ou suppression.  |   [Exercice1](/freeCodeCamp/basic/array.js) [Exercice2](/freeCodeCamp/basic/array2.js) [Exercice3](/freeCodeCamp/basic/array3.js) [Exercice4](/freeCodeCamp/basic/array4.js) [Exercice5](/freeCodeCamp/basic/array5.js)| [Exercice6](/freeCodeCamp/basic/array6.js) [Exercice7](/freeCodeCamp/basic/array7.js)|
+|Comprendre l'utilisation des tableaux/sous-tableaux . | Utiliser des tableaux/sous tableaux : accéder, création, modifier ou suppression.  |   [Exercice1](/freeCodeCamp/basic/array.js) [Exercice2](/freeCodeCamp/basic/array2.js) [Exercice3](/freeCodeCamp/basic/array3.js) [Exercice4](/freeCodeCamp/basic/array4.js) [Exercice5](/freeCodeCamp/basic/array5.js) [Exercice6](/freeCodeCamp/basic/array6.js) [Exercice7](/freeCodeCamp/basic/array7.js)|
 
 
 ##### Algorithme de base
