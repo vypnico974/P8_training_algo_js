@@ -138,9 +138,12 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Savoir compter les cartes . | Compter les cartes.  |  [javascript](/freeCodeCamp/basic/countingCards.js)  |
 |Comprendre la création et les usages des objets . | Créer et manipuler des objets.  |  [Exercice1](/freeCodeCamp/basic/buildObject.js) [Exercice2](/freeCodeCamp/basic/accesObject.js) [Exercice3](/freeCodeCamp/basic/accesObject2.js) [Exercice4](/freeCodeCamp/basic/accesObject3.js) [Exercice5](/freeCodeCamp/basic/accesObject4.js) [Exercice6](/freeCodeCamp/basic/accesObject5.js) [Exercice7](/freeCodeCamp/basic/accesObject6.js) [Exercice8](/freeCodeCamp/basic/accesObject7.js) [Exercice9](/freeCodeCamp/basic/accesObject8.js) [Exercice10](/freeCodeCamp/basic/accesObject9.js) [Exercice11](/freeCodeCamp/basic/accesObject10.js) [Exercice12](/freeCodeCamp/basic/accesObject11.js) [Exercice13](/freeCodeCamp/basic/accesObject12.js) |
 |Comprendre l'itération avec des boucles . | Itérer avec des boucles.  |  [Exercice1](/freeCodeCamp/basic/iterateLoop.js) [Exercice2](/freeCodeCamp/basic/iterateLoop2.js) [Exercice3](/freeCodeCamp/basic/iterateLoop3.js) [Exercice4](/freeCodeCamp/basic/iterateLoop4.js) [Exercice5](/freeCodeCamp/basic/iterateLoop5.js) [Exercice6](/freeCodeCamp/basic/iterateLoop6.js) [Exercice7](/freeCodeCamp/basic/iterateLoop7.js) |
-|Comprendre la résursivité . | Remplacer des boucles par de la résursivité.  |  [Exercice1](/freeCodeCamp/basic/recursion.js) [Exercice2](/freeCodeCamp/basic/recursion2.js)  |
+|Comprendre la résursivité . |Utiliser la résursivité selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/recursion.js) [Exercice2](/freeCodeCamp/basic/recursion2.js) [Exercice3](/freeCodeCamp/basic/recursion3.js)
+[Exercice4](/freeCodeCamp/basic/recursion4.js) |
 |Recherche de profil . | Parcourir les données d'un object profil et retourner les données correspondant à la propriété renseigné.  |  [Exercice1](/freeCodeCamp/basic/profilLookup.js)   |
-|Savoir utiliser la fonction prédéfinie Math.random() . | Utiliser la fonction prédéfinie Math.random() selon le besion.  |  [Exercice1](/freeCodeCamp/basic/mathRandom.js)   |
+|Savoir utiliser la fonction prédéfinie Math.random() . | Utiliser la fonction prédéfinie Math.random() selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/mathRandom.js) [Exercice2](/freeCodeCamp/basic/mathRandom2.js) [Exercice3](/freeCodeCamp/basic/mathRandom3.js) |
+|Savoir utiliser la fonction prédéfinie parseInt() . | Utiliser la fonction prédéfinie parseInt() selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/parseInt.js) [Exercice2](/freeCodeCamp/basic/parseInt2.js)  |
+|Savoir utiliser la condition ternaire . | Utiliser la condition ternaire selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/parseInt.js) [Exercice2](/freeCodeCamp/basic/parseInt2.js) [Exercice3](/freeCodeCamp/basic/parseInt3.js)  |
 
 ##### Algorithme de base
 
