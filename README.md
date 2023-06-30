@@ -145,13 +145,13 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Savoir utiliser la fonction prédéfinie parseInt() . | Utiliser la fonction prédéfinie parseInt() selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/parseInt.js) [Exercice2](/freeCodeCamp/basic/parseInt2.js)  |
 |Savoir utiliser la condition ternaire . | Utiliser la condition ternaire selon les besoins.  |  [Exercice1](/freeCodeCamp/basic/parseInt.js) [Exercice2](/freeCodeCamp/basic/parseInt2.js) [Exercice3](/freeCodeCamp/basic/parseInt3.js)  |
 |Comprendre la différence entre les mot clés var et let.  | Remplacer la variable var par let| [javascript](/freeCodeCamp/basic/varLet.js)  |
-|Comprendre la mutation d'un objet tableau déclaré avec le mot clés const .  | Muté un objet tableau déclaré avec le mot clés const [javascript](/freeCodeCamp/basic/mutateArrayConst.js)  |
-|Comprendre l'utilisation de la fonction prédéninie Oject.freeze(obj) pour éviter la mutation d'un objet .  | Eviter la mutation d'un objet [javascript](/freeCodeCamp/basic/preventObjectMutation.js)  |
-|Comprendre l'utilisation de la fonction fléchée .  | Utiliser des fonctions fléchées selon les besoins [Exercice1](/freeCodeCamp/basic/arrowFuction.js) [Exercice2](/freeCodeCamp/basic/arrowFuction2.js)  |
+|Comprendre la mutation d'un objet tableau déclaré avec le mot clés const .  | Muté un objet tableau déclaré avec le mot clés const| [javascript](/freeCodeCamp/basic/mutateArrayConst.js)  |
+|Comprendre l'utilisation de la fonction prédéninie Oject.freeze(obj) pour éviter la mutation d'un objet .  | Eviter la mutation d'un objet| [javascript](/freeCodeCamp/basic/preventObjectMutation.js)  |
+|Comprendre l'utilisation de la fonction fléchée .  | Utiliser des fonctions fléchées selon les besoins |[Exercice1](/freeCodeCamp/basic/arrowFuction.js) [Exercice2](/freeCodeCamp/basic/arrowFuction2.js)  |
 |Comprendre les paramètres par défauts d'une fonctions .  | Définir un paramètre par défaut d'une fonction. [Exercice](/freeCodeCamp/basic/defaultParamFunction.js)  |
-|Comprendre l'utilisation de fonction prenant un nombre variable d'arguments .  | CRéer une fonction prenant un nombre variable d'arguments. [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
-|Comprendre l'utilisation de l'opérateur "spread"  pour un objet tableau .  | Utiliser l'opérateur "spread" pour un objet tableau. [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
-|Comprendre l'utilisation de la destructuration pour extraire les données d'un objet .  | Utiliser la destructuration pour extraire les données d'un objet. [Exercice1](/freeCodeCamp/basic/destrucObject.js) [Exercice2](/freeCodeCamp/basic/destrucObject2.js)  |
+|Comprendre l'utilisation de fonction prenant un nombre variable d'arguments .  | CRéer une fonction prenant un nombre variable d'arguments.| [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
+|Comprendre l'utilisation de l'opérateur "spread"  pour un objet tableau .  | Utiliser l'opérateur "spread" pour un objet tableau.| [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
+|Comprendre l'utilisation de la destructuration pour extraire les données d'un objet .  | Utiliser la destructuration pour extraire les données d'un objet.| [Exercice1](/freeCodeCamp/basic/destrucObject.js) [Exercice2](/freeCodeCamp/basic/destrucObject2.js)  |
 
 
 
