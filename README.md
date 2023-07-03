@@ -148,10 +148,18 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 |Comprendre la mutation d'un objet tableau déclaré avec le mot clés const .  | Muté un objet tableau déclaré avec le mot clés const| [javascript](/freeCodeCamp/basic/mutateArrayConst.js)  |
 |Comprendre l'utilisation de la fonction prédéninie Oject.freeze(obj) pour éviter la mutation d'un objet .  | Eviter la mutation d'un objet| [javascript](/freeCodeCamp/basic/preventObjectMutation.js)  |
 |Comprendre l'utilisation de la fonction fléchée .  | Utiliser des fonctions fléchées selon les besoins |[Exercice1](/freeCodeCamp/basic/arrowFuction.js) [Exercice2](/freeCodeCamp/basic/arrowFuction2.js)  |
-|Comprendre les paramètres par défauts d'une fonctions .  | Définir un paramètre par défaut d'une fonction. [Exercice](/freeCodeCamp/basic/defaultParamFunction.js)  |
+|Comprendre les paramètres par défauts d'une fonctions .  | Définir un paramètre par défaut d'une fonction.| [Exercice](/freeCodeCamp/basic/defaultParamFunction.js)  |
 |Comprendre l'utilisation de fonction prenant un nombre variable d'arguments .  | CRéer une fonction prenant un nombre variable d'arguments.| [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
 |Comprendre l'utilisation de l'opérateur "spread"  pour un objet tableau .  | Utiliser l'opérateur "spread" pour un objet tableau.| [Exercice](/freeCodeCamp/basic/variableArgFt.js)  |
-|Comprendre l'utilisation de la destructuration pour extraire les données d'un objet .  | Utiliser la destructuration pour extraire les données d'un objet.| [Exercice1](/freeCodeCamp/basic/destrucObject.js) [Exercice2](/freeCodeCamp/basic/destrucObject2.js)  |
+|Comprendre l'utilisation de la destructuration pour extraire les données d'un objet .  | Utiliser la destructuration pour extraire les données d'un objet.| [Exercice1](/freeCodeCamp/basic/destrucObject.js) [Exercice2](/freeCodeCamp/basic/destrucObject2.js) [Exercice3](/freeCodeCamp/basic/destrucObject3.js) [Exercice4](/freeCodeCamp/basic/destrucObject4.js) [Exercice5](/freeCodeCamp/basic/destrucObject5.js) 
+[Exercice6](/freeCodeCamp/basic/destrucObject6.js)  |
+|Comprendre l'utilisation du litéral de modèle .  | Utiliser de type spécial de chaîne qui facilite la création de chaînes complexes.| [Exercice](/freeCodeCamp/basic/templateLiteral.js)  |
+ Savoir utiliser des déclarations littérales d'objet concises .  | Utiliser les déclarations littérales d'objet concises.| [Exercice](/freeCodeCamp/basic/consiceLIteralObjet.js)  |
+Savoir utiliser la syntaxe pour définir le construction d'une classe .  | Utiliser la syntaxe des classes pour déinir un constructeur.| [Exercice](/freeCodeCamp/basic/classSyntaxConstructor.js)  |
+Savoir utiliser getter et setter pour l'accès à un objet .  | Utiliser getter et setter pour la créer de fonction .| [Exercice](/freeCodeCamp/basic/getterSetter.js)  |
+Savoir créer un module de script.  | Créer un module de script .| [Exercice](/freeCodeCamp/basic/moduleScript.html)  |
+Savoir exporter et importer une fonction.  | Exporter et importer des fonctions .| [Exercice1](/freeCodeCamp/basic/exportFunction.js) [Exercice2](/freeCodeCamp/basic/importFunction.js) [Exercice3](/freeCodeCamp/basic/exportFunction3.js) [Exercice4](/freeCodeCamp/basic/importFunction3.js) |
+Savoir créer une promesse.  | Créer une promesse .| [Exercice1](/freeCodeCamp/basic/promise.js) [Exercice2](/freeCodeCamp/basic/promise2.js) [Exercice3](/freeCodeCamp/basic/promise3.js) [Exercice4](/freeCodeCamp/basic/promise4.js)  |
 
 
 
