@@ -160,6 +160,7 @@ Savoir utiliser getter et setter pour l'accès à un objet .  | Utiliser getter 
 Savoir créer un module de script.  | Créer un module de script .| [Exercice](/freeCodeCamp/basic/moduleScript.html)  |
 Savoir exporter et importer une fonction.  | Exporter et importer des fonctions .| [Exercice1](/freeCodeCamp/basic/exportFunction.js) [Exercice2](/freeCodeCamp/basic/importFunction.js) [Exercice3](/freeCodeCamp/basic/exportFunction3.js) [Exercice4](/freeCodeCamp/basic/importFunction3.js) |
 Savoir créer une promesse.  | Créer une promesse .| [Exercice1](/freeCodeCamp/basic/promise.js) [Exercice2](/freeCodeCamp/basic/promise2.js) [Exercice3](/freeCodeCamp/basic/promise3.js) [Exercice4](/freeCodeCamp/basic/promise4.js)  |
+Savoir utiliser les tests de méthodes (exmples : test(), match(),....).  | Utiliser les tests de méthodes .| [Exercice1](/freeCodeCamp/basic/regex.js) [Exercice2](/freeCodeCamp/basic/regex2.js) [Exercice3](/freeCodeCamp/basic/regex3.js) [Exercice4](/freeCodeCamp/basic/regex4.js) [Exercice5](/freeCodeCamp/basic/match.js) [Exercice6](/freeCodeCamp/basic/match2.js) [Exercice7](/freeCodeCamp/basic/regex5.js) [Exercice8](/freeCodeCamp/basic/match3.js) [Exercice9](/freeCodeCamp/basic/match4.js) [Exercice10](/freeCodeCamp/basic/match5.js) [Exercice11](/freeCodeCamp/basic/match6.js)|
 
 
 
