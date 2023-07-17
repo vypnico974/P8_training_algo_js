@@ -218,5 +218,12 @@ Savoir utiliser le "debugging" pour déboloquer un programme.  | Utiliser le "de
 |Utiliser les fonctions immédiatement invoquées pour création de module. |  [javascript](/freeCodeCamp/objectOrientedProgramming/immediatelyFunctionCreateModule.js) |
 
 
+##### Mini projets
+
+|Créer une fonction qui vérifie si une chaîne de caractères est un palindrome. Un palindrome est un mot, une phrase, un nombre, ou tout autre séquence de caractères qui se lit de droite à gauche et de gauche à droite indistinctement.  |  [javascript](/freeCodeCamp/miniProjets/palindrome.js) |
+
+
+
+
 
 
