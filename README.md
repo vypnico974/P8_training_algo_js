@@ -220,6 +220,9 @@ Savoir utiliser le "debugging" pour déboloquer un programme.  | Utiliser le "de
 
 ##### Mini projets
 
+
+| Titre |  Solution(s) |
+| :---: |  :------: |
 |Créer une fonction qui vérifie si une chaîne de caractères est un palindrome. Un palindrome est un mot, une phrase, un nombre, ou tout autre séquence de caractères qui se lit de droite à gauche et de gauche à droite indistinctement.  |  [javascript](/freeCodeCamp/miniProjets/palindrome.js) |
 |Créer une fonction qui convertie un nombre décimal en nombre romain.  |  [javascript](/freeCodeCamp/miniProjets/convertToRoman.js) |
 |Créer une fonction qui vérifie le format des numéros de téléphone US.  |  [javascript](/freeCodeCamp/miniProjets/telephoneCheck.js) |
