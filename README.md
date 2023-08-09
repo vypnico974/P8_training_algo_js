@@ -71,6 +71,16 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Mars Lander - Episode 1 | Ce puzzle vous apprend à comparer des valeurs en utilisant une condition simple. | [javascript](/codingame/easy/marsLander1.js) |
 | CHEVAUX DE COURSE | Ce puzzle montre que parfois, la solution la plus simple n'est pas assez performante. Vous allez devoir manipuler des tableaux de grande taille et travailler avec leur temps de traitement. | [javascript](/codingame/easy/horsesDual.js) |
 | MIME TYPE | Le type MIME est utilisé dans de nombreux protocoles internet pour associer un type de média (html, image, vidéo, ...) avec le contenu envoyé. Ce type MIME est généralement déduit de l'extension du fichier à transférer. Vous devez écrire un programme qui permet de détecter le type MIME d'un fichier à partir de son nom. | [javascript](/codingame/easy/mimeType.js) |
+| DÉFIBRILLATEURS | Ce puzzle vous fait séparer une chaîne de caractères en d'autres sous chaînes, remplacer un caractère d'une chaîne et le convertir en flottant. Il vous faut aussi convertir des degrés en radians et utiliser des opérations mathématiques comme la racine carrée et le cosinus. Enfin, il vous faut appliquer de multiples opérations (addition, multiplication...) à des flottants. | [javascript](/codingame/easy/defibrillators.js) |
+| Art ACSII | Résoudre ce puzzle vous apprend à gérer les chaînes de caractères et les calculs dans un tableau.Il vous faut couper des chaînes de caractères en plusieurs morceaux et les concaténer en d'autres. Vous pouvez aussi utiliser les index de tableau.| [javascript](/codingame/easy/asciiArt.js)|
+
+
+##### Puzzles moyens
+
+| Titre | Objet  | Solution(s) |
+| :---: | :------: | :------: |
+| Scrabble | Ce puzzle vous demande d'utiliser des boucles imbriquées ainsi que de combiner plusieurs tableaux associatifs afin de construire une solution efficacement. | [javascript](/codingame/medium/scrabble.js) |
+| Calcul Maya | Le but de ce puzzle est de calculer une opération arithmétique entre deux nombres Mayas. Il faut déchiffrer les chiffres mayas, résoudre l'opération, puis afficher le résultat. Sans des connaissances approfondies des dialectes Mayas, votre code utilisera surement des dictionnaires et un nombre important de conversions de chaines vers des nombres et vice versa. |  [javascript](/codingame/medium/mayaCalculation.js) |
 
 
 #### CodeWars
