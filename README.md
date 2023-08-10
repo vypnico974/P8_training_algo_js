@@ -81,6 +81,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | :---: | :------: | :------: |
 | Scrabble | Ce puzzle vous demande d'utiliser des boucles imbriquées ainsi que de combiner plusieurs tableaux associatifs afin de construire une solution efficacement. | [javascript](/codingame/medium/scrabble.js) |
 | Calcul Maya | Le but de ce puzzle est de calculer une opération arithmétique entre deux nombres Mayas. Il faut déchiffrer les chiffres mayas, résoudre l'opération, puis afficher le résultat. Sans des connaissances approfondies des dialectes Mayas, votre code utilisera surement des dictionnaires et un nombre important de conversions de chaines vers des nombres et vice versa. |  [javascript](/codingame/medium/mayaCalculation.js) |
+| Numéros de téléphone | Dans ce puzzle, vous apprenez de nouvelles façons et des raisons supplémentaires de stocker des données dans des structures optimisées telles que les arbres et obtenez une meilleure compréhension de la théorie des graphes / arbre.| [javascript](/codingame/medium/telephoneNumber.js)|
 
 
 #### CodeWars
