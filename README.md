@@ -83,6 +83,7 @@ Pour s'entraîner aux tests techniques et pour montrer votre logique et votre ca
 | Calcul Maya | Le but de ce puzzle est de calculer une opération arithmétique entre deux nombres Mayas. Il faut déchiffrer les chiffres mayas, résoudre l'opération, puis afficher le résultat. Sans des connaissances approfondies des dialectes Mayas, votre code utilisera surement des dictionnaires et un nombre important de conversions de chaines vers des nombres et vice versa. |  [javascript](/codingame/medium/mayaCalculation.js) |
 | Numéros de téléphone | Dans ce puzzle, vous apprenez de nouvelles façons et des raisons supplémentaires de stocker des données dans des structures optimisées telles que les arbres et obtenez une meilleure compréhension de la théorie des graphes / arbre.| [javascript](/codingame/medium/telephoneNumber.js)|
 | Othello | Vous disposez d'un plateau de jeu Othello ainsi que de la couleur et de la position du prochain coup. Vous devez répondre si c'est légal ou non..| [javascript](/codingame/medium/othello.js)|
+| 1010(1) | Vous devez trouver un emplacement pour votre bloc 2x2 afin de remplir complètement autant de lignes que de colonnes, puis indiquer combien de lignes et de colonnes vous pouvez compléter.| [javascript](/codingame/medium/1010-1.js)|
 
 
 #### CodeWars
